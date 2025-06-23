@@ -170,11 +170,3 @@ For questions or feature requests, feel free to reach out or open an issue on Gi
 ---
 
 ✅ You now have a powerful, private, and portable transcription tool — no internet needed!
-
-Let me know if you'd like:
-- A pre-built `.exe` package
-- An installer (Inno Setup / NSIS)
-- Export options (SRT, TXT, JSON)
-- Multi-threading or GPU acceleration enhancements
-
-I'm happy to help!
